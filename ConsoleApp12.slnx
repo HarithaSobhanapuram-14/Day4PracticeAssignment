@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ConsoleApp12/ConsoleApp12.csproj" />
+  <Project Path="Scenario1/Scenario1.csproj" />
+  <Project Path="Scenario2/Scenario2.csproj" />
+  <Project Path="Scenario3/Scenario3.csproj" />
+  <Project Path="Scenario4/Scenario4.csproj" />
+  <Project Path="Scenario5/Scenario5.csproj" />
+</Solution>
